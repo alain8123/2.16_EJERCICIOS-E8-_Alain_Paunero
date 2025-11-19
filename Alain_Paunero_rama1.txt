@@ -1,2 +1,2 @@
-Una linea rama1  
-Añado mas lineas a rama1 
+añado lineas a rama1
+añado mas lineas a rama1
